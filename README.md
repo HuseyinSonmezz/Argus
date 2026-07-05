@@ -31,7 +31,7 @@ The system does not send your data to any cloud servers. Therefore, the agents' 
 * **Minimum System:**
   - **RAM:** 8 GB (DDR4/DDR5)
   - **GPU:** Integrated graphics card or directly via the CPU.
-  - **Storage:** At least 15 GB of free space (SSD required).
+  - **Storage:** At least 20 GB of free space (SSD required).
 
 * **Recommended System (For Operational and Smooth Use):**
   - **RAM:** 16 GB or higher.
@@ -45,7 +45,7 @@ The system does not send your data to any cloud servers. Therefore, the agents' 
 
 If you are going to run the system by cloning this repo, you must have **Python 3.x** and **Ollama** installed on your computer. To activate the agents, you must first pull the models into your local engine (e.g., `ollama pull hermes3:8b`).
 
-> Check the **Releases** section on the right for the massive 21 GB "Click and Run" version, which includes all AI brains and the portable Python engine.
+> Check the **Releases** section on the right for the massive 18 GB "Click and Run" version, which includes all AI brains and the portable Python engine.
 
 ## ⌨️ Terminal Usage Examples
 The system operates via the command line with a practical syntax:
