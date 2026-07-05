@@ -1,0 +1,11 @@
+# Heavy Portable Python Engine
+Tools/WPy64-313130/
+
+# AI Models (Blobs) and Ollama Core Engine
+System/Agents_Files/
+System/Ollama_Core/
+
+# System Generated Reports and Python Caches
+Agent_Reports/
+__pycache__/
+*.pyc
