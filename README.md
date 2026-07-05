@@ -99,7 +99,7 @@ Sistem verilerinizi hiçbir bulut sunucusuna göndermez. Bu nedenle, ajanların 
 * **Minimum Sistem:**
   - **RAM:** 8 GB (DDR4/DDR5)
   - **GPU:** Dahili grafik kartı veya doğrudan CPU üzerinden.
-  - **Depolama:** En az 15 GB boş alan (SSD zorunludur).
+  - **Depolama:** En az 20 GB boş alan (SSD zorunludur).
 
 * **Önerilen Sistem (Operasyonel ve Akıcı Kullanım İçin):**
   - **RAM:** 16 GB veya üzeri.
@@ -113,7 +113,7 @@ Sistem verilerinizi hiçbir bulut sunucusuna göndermez. Bu nedenle, ajanların 
 
 Sistemi bu repodan klonlayarak çalıştıracaksanız, bilgisayarınızda **Python 3.x** ve **Ollama** kurulu olmalıdır. Ajanları aktifleştirmek için öncelikle modelleri yerel motorunuza çekmeniz gerekir (örn: `ollama pull hermes3:8b`).
 
-> Tüm yapay zeka beyinlerinin ve taşınabilir Python motorunun içine dahil edildiği "Tıkla ve Çalıştır" 21 GB'lık devasa sürüm için sağ taraftaki **Releases** bölümünü kontrol edin.
+> Tüm yapay zeka beyinlerinin ve taşınabilir Python motorunun içine dahil edildiği "Tıkla ve Çalıştır" 18 GB'lık devasa sürüm için sağ taraftaki **Releases** bölümünü kontrol edin.
 
 ## ⌨️ Terminal Kullanım Örnekleri
 Sistem komut satırı üzerinden pratik bir sözdizimi ile çalışır:
