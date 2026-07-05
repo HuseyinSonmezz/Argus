@@ -50,16 +50,16 @@ If you are going to run the system by cloning this repo, you must have **Python 
 ## ⌨️ Terminal Usage Examples
 The system operates via the command line with a practical syntax:
 
-# Establish a direct terminal connection with the selected agent
+*Establish a direct terminal connection with the selected agent*
 > lynx
 
-# Have the Nexus courier analyze a log file with Hermit (add the "save" command if you want the report saved)
+*Have the Nexus courier analyze a log file with Hermit (add the "save" command if you want the report saved)*
 > nexus hermit "Analyze these server logs and find the anomalies" server_logs.txt save
 
-# Use the built-in translation engine
+*Use the built-in translation engine*
 > toen "Translate this text to English"
 ---
-## ⚖️ Legal Disclaimer
+*⚖️ Legal Disclaimer*
 Project Argus and its included offensive AI modules (e.g., LYNX) have been developed solely for Pentesting, academic research, and cybersecurity education purposes. All legal and penal responsibility arising from the use of this system against unauthorized targets, unauthorized networks, or malicious operations belongs to the end-user. The developer accepts no responsibility.
 ---
 *Developed by Yafes.*
@@ -118,16 +118,16 @@ Sistemi bu repodan klonlayarak çalıştıracaksanız, bilgisayarınızda **Pyth
 ## ⌨️ Terminal Kullanım Örnekleri
 Sistem komut satırı üzerinden pratik bir sözdizimi ile çalışır:
 
-# Seçilen ajanla doğrudan terminal bağlantısı kurmak
+*Seçilen ajanla doğrudan terminal bağlantısı kurmak*
 > lynx
 
-# Nexus kuryesi ile bir log dosyasını Hermit'e analiz ettirmek (rapor kaydedilsin isterseniz "save" komutunu eklemelisiniz)
+*Nexus kuryesi ile bir log dosyasını Hermit'e analiz ettirmek (rapor kaydedilsin isterseniz "save" komutunu eklemelisiniz)*
 > nexus hermit "Bu server loglarını incele ve anomalileri bul" server_logs.txt save
 
-# Dahili çeviri motorunu kullanmak
+*Dahili çeviri motorunu kullanmak*
 > toen "Bu metni İngilizceye çevir"
 ---
-## ⚖️ Yasal Uyarı
+*⚖️ Yasal Uyarı*
 Project Argus ve içerdiği ofansif yapay zeka modülleri (örn. LYNX), yalnızca **Pentest, akademik araştırmalar ve siber güvenlik eğitimleri** amacıyla geliştirilmiştir. Bu sistemin yetkisiz hedeflere, izinsiz ağlara veya kötü niyetli operasyonlara karşı kullanılmasından doğacak tüm hukuki ve cezai sorumluluk son kullanıcıya aittir. Geliştirici hiçbir sorumluluk kabul etmez.
 ---
 *Yafes tarafından geliştirilmiştir.*
